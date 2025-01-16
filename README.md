@@ -1,2 +1,2 @@
 # PythonProject
-Lean Python
+Learn Python
